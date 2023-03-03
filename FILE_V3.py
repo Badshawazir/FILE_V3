@@ -268,8 +268,7 @@ dic2 = {'01':'January','02':'February','03':'March','04':'April','05':'May','06'
 
 
 
-okc = 'OK-'+str(tgl)+'-'+str(bln)+'-'+str(thn)+'.txt'
-cpc = 'CP-'+str(tgl)+'-'+str(bln)+'-'+str(thn)+'.txt'
+
 #------------------[ MACHINE-SUPPORT ]---------------#
 def X(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.005)
