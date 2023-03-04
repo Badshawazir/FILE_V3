@@ -88,6 +88,9 @@ header_grup = {"user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac O
 ugen = [
 'Mozilla/5.0 (Linux; Android 10; M2006C3MG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36'
 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0'
+'Mozilla/5.0 (Linux; U; Android 16;  en-us; GT-B273T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.4731.82 Mobile Safari/537.36'
+'Mozilla/5.0 (Linux; U; Android 14;  en-us; GT-P433A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4536.144 Mobile Safari/537.36'
+'Mozilla/5.0 (Linux; U; Android 10;  en-us; GT-J507T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4255.66 Mobile Safari/537.36'
 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1 ;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]'
 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/102.0 Mobile/15E148 Safari/605.1.15 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]'
 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; yie10; rv:11.0) like Gecko'
